@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Product List</string>
+    <string name="productlist">productList</string>
+    <string name="go_to_website">Go to website</string>
+    <string name="go_to_item_list">Go to Item List</string>
+    <string-array name="spinnerProduct">
+        <item>Initial</item>
+        <item>1 month</item>
+        <item>3 months</item>
+        <item>6 months</item>
+    </string-array>
+</resources>
